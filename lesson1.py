@@ -2,7 +2,6 @@
 
 val = 158
 name_list = 'Катя', 'Вася', 'Петя'
-
 print(val)
 print(name_list)
 
